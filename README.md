@@ -1,16 +1,16 @@
-Project Title
+## Project Title
 Real Time Bus Tracker
 
-Project Description
+## Project Description
 Welcome to a real time tracker that shows you the bus stops between MIT and Harvard! Just click on the button to see the map marker show you the way.
 
-How To Run
+## How To Run
 Open index.html in the browser to view.
 
-Roadmap of Future Improvements
+## Roadmap of Future Improvements
 Future improvement plans include changing the style of the map to be either a satellite or aerial view of MA.
 
-License Information
+## License Information
 MIT License
 
 Copyright (c) 2020 John Williams
